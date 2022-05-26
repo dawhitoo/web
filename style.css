@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(234, 222, 245) ;
+    color:rgb(24, 23, 23) ;
+    font-family: 'Courier New', Courier, monospace;
+    width: auto;
+    margin: 40px;
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+footer {
+    margin: 100px;
+    text-align: left;
+}
+
+img {
+    max-width: 50%;
+}
+
+#logo {
+    width: 40px;
+    display: inline-block;
+}
+
+#logo-disc {
+    width: 50px;
+}
+
+* {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
